@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/adhikasp-mcp-weather-badge.png)](https://mseep.ai/app/adhikasp-mcp-weather)
+
 # MCP Weather Server
 
 A simple MCP server that provides hourly weather forecasts using the AccuWeather API.
